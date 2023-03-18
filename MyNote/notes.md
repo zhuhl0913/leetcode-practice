@@ -2,4 +2,4 @@
 - Leetcode704(easy): 二分查找法
   - 相关题目：
   - Leetcode35(easy): 二分查找+插入，核心在于如何判断插入对应的下标
-  - Leetcode34(medium): 
+  - Leetcode34(medium): 二分查找左右边界，可以分别用二分查找左右边界，也可以先用二分找到一个特定的target然后滑动下标确定左右边界。 
