@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8528d6b2-8904-4b95-8c94-b3f7fcc56000" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/src/leetcode69.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyNote/notes.md" beforeDir="false" afterPath="$PROJECT_DIR$/MyNote/notes.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +94,9 @@
       <updated>1679136952297</updated>
       <workItem from="1679136953411" duration="278000" />
       <workItem from="1679137239673" duration="3194000" />
-      <workItem from="1679142362739" duration="9592000" />
+      <workItem from="1679142362739" duration="9928000" />
+      <workItem from="1679226281128" duration="4495000" />
+      <workItem from="1679239282546" duration="127000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1679137364155</created>
@@ -115,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679152369075</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update">
+      <created>1679152459499</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679152459499</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
